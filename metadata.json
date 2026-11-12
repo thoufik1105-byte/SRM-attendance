@@ -1,0 +1,6 @@
+{
+  "name": "UniScan Attendance - Anti-Cheat Biometric System",
+  "description": "Enterprise dual-factor QR and anti-spoofing facial recognition attendance system with timetable auto-triggers and classroom machine verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
